@@ -1,4 +1,4 @@
-# 🔒 Wireless Intrusion Detection Backend
+# 🔒 Shakti 
 
 > **Powerful Everyday Protection That Moves With You**
 
