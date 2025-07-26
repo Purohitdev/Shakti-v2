@@ -65,7 +65,7 @@ export default function Hero() {
    <Link to="/login">
   <button className="bg-[#fd594e] hover:bg-[#e44e44] px-6 py-2 rounded-full flex items-center gap-2 text-white text-sm font-semibold transition group relative z-10">
     <Shield className="w-4 h-4 group-hover:rotate-12 transition-transform" />
-    Book a Call
+    Lets started
     <ArrowRight className="w-4 h-4" />
   </button>
 </Link>
