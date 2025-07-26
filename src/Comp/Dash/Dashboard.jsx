@@ -223,21 +223,21 @@ export default function Dashboard() {
             <div className="flex items-center gap-3 p-3 bg-[#161518] rounded-lg border border-[#2e2e30]">
               <div className="w-2 h-2 bg-red-500 rounded-full"></div>
               <div className="flex-1">
-                <p className="text-sm text-white">Suspicious device detected on Shakti-Main</p>
+                <p className="text-sm text-white">Handshake Detected on Shakti Main</p>
                 <p className="text-xs text-[#b0b0b0]">2 minutes ago</p>
               </div>
             </div>
             <div className="flex items-center gap-3 p-3 bg-[#161518] rounded-lg border border-[#2e2e30]">
               <div className="w-2 h-2 bg-yellow-500 rounded-full"></div>
               <div className="flex-1">
-                <p className="text-sm text-white">High bandwidth usage detected on IoT-Devices</p>
+                <p className="text-sm text-white">High bandwidth usage detected on Shakti Main</p>
                 <p className="text-xs text-[#b0b0b0]">15 minutes ago</p>
               </div>
             </div>
             <div className="flex items-center gap-3 p-3 bg-[#161518] rounded-lg border border-[#2e2e30]">
               <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               <div className="flex-1">
-                <p className="text-sm text-white">Security patch applied to Conference-Room network</p>
+                <p className="text-sm text-white">Security patch applied to Shakti Main network</p>
                 <p className="text-xs text-[#b0b0b0]">1 hour ago</p>
               </div>
             </div>
